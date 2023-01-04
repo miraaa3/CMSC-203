@@ -1,0 +1,8 @@
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\bin\Debug\AdovasMethods.exe.config
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\bin\Debug\AdovasMethods.exe
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\bin\Debug\AdovasMethods.pdb
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\obj\Debug\AdovasMethods.csproj.AssemblyReference.cache
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\obj\Debug\AdovasMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\obj\Debug\AdovasMethods.csproj.CoreCompileInputs.cache
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\obj\Debug\AdovasMethods.exe
+C:\Users\Prime_05\OneDrive\Desktop\MIRA\CMSC203_ACTIVITY6_ADOVAS\AdovasMethods\obj\Debug\AdovasMethods.pdb
